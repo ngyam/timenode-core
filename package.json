@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereum-alarm-clock/timenode-core.git"
+    "url": "git+https://github.com/ngyam/timenode-core.git"
   },
   "keywords": [
     "ethereum",
@@ -46,7 +46,7 @@
     "@types/es6-promise": "3.3.0",
     "babel-polyfill": "6.26.0",
     "bignumber.js": "5.0.0",
-    "eac.js-lib": "git+https://github.com/ngyam/eac.js-lib",
+    "eac.js-lib": "git+https://github.com/ngyam/eac.js-lib.git",
     "ethereumjs-tx": "1.3.7",
     "ethereumjs-wallet": "0.6.1",
     "lokijs": "1.5.5",
